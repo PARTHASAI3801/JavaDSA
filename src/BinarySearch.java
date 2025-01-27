@@ -36,5 +36,6 @@ public class BinarySearch {
             }
         }
         return -1;
+        //to return nothing if anything is not found
     }
 }
